@@ -1,0 +1,8 @@
+com/inditex/proof/pacman/catalog/service/rest/exception/ErrorDTO$ErrorDTOBuilder.class
+com/inditex/proof/pacman/catalog/service/rest/exception/ErrorDTO.class
+org/openapitools/model/ProductResponseDTO.class
+org/openapitools/api/ProductsApi.class
+org/openapitools/api/ApiUtil.class
+com/inditex/proof/pacman/catalog/service/rest/controller/ProductController.class
+com/inditex/proof/pacman/catalog/service/rest/exception/ExceptionHandler.class
+com/inditex/proof/pacman/catalog/service/rest/controller/mapper/ProductControllerMapper.class

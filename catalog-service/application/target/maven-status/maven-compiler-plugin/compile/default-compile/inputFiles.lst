@@ -1,0 +1,8 @@
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/port/ouput/ProductRepository.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/port/input/ProductUseCase.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/filter/FilterProductQuery.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/filter/FilterMetricQueryResponse.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/exception/ApplicationException.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/ProductUseCaseImpl.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/exception/FilterProductQueryException.java
+/Users/raul.abad/Development/Personal/pacman/catalog-service/application/src/main/java/com/inditex/proof/pacman/catalog/service/application/mapper/ProductMapper.java

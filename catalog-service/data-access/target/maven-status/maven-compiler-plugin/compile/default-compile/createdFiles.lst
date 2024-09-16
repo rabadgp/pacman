@@ -1,0 +1,13 @@
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/StockUnitEntity.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/ProductEntity.class
+com/inditex/proof/pacman/catalog/service/dataaccess/mapper/ProductEntityMapper$ProductEntityFactory.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/SalesUnitEntity.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/SalesUnitEntity$SalesUnitEntityBuilder.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/ProductEntity$ProductEntityBuilder.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/TShirtEntity.class
+com/inditex/proof/pacman/catalog/service/dataaccess/mapper/ProductEntityMapper$MetricEntityFactory.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/StockUnitEntity$StockUnitEntityBuilder.class
+com/inditex/proof/pacman/catalog/service/dataaccess/adapter/ProductRepositoryImpl.class
+com/inditex/proof/pacman/catalog/service/dataaccess/repository/ProductJPARepository.class
+com/inditex/proof/pacman/catalog/service/dataaccess/entity/MetricEntity.class
+com/inditex/proof/pacman/catalog/service/dataaccess/mapper/ProductEntityMapper.class

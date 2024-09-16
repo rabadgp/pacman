@@ -1,0 +1,9 @@
+com/inditex/proof/pacman/catalog/service/application/filter/FilterMetricQueryResponse.class
+com/inditex/proof/pacman/catalog/service/application/port/input/ProductUseCase.class
+com/inditex/proof/pacman/catalog/service/application/exception/ApplicationException.class
+com/inditex/proof/pacman/catalog/service/application/exception/FilterProductQueryException.class
+com/inditex/proof/pacman/catalog/service/application/port/ouput/ProductRepository.class
+com/inditex/proof/pacman/catalog/service/application/ProductUseCaseImpl.class
+com/inditex/proof/pacman/catalog/service/application/filter/FilterProductQuery.class
+com/inditex/proof/pacman/catalog/service/application/mapper/ProductMapper.class
+com/inditex/proof/pacman/catalog/service/application/filter/FilterProductQuery$FilterProductQueryBuilder.class
